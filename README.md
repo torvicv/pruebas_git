@@ -1,3 +1,3 @@
 # Pruebas git Píldoras Informáticas.
 
-1. Primer cambio.
+1. Primer cambio
